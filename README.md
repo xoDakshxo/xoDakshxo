@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Daksh%20Bagga&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Solutions%20Engineer%20%C2%B7%20AI%20%26%20Voice%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Daksh Bagga">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Daksh%20Bagga&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Solutions%20Engineer%20%7C%20AI%20and%20Voice%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Daksh Bagga">
 </p>
 
 <p align="center">
   <a href="https://github.com/xoDakshxo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=720&lines=Shipping+GenAI%2C+RAG%2C+agents+%26+voice+into+production;Builder+of+a+voice+agent+platform+with+1200%2B+integrations;Sub-60ms+speech+%C2%B7+Trusted+technical+voice+for+AI-native+teams" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=2CB67D&center=true&vCenter=true&width=720&lines=Shipping+GenAI%2C+RAG%2C+agents+and+voice+into+production;Curious.;Relentless.;Pragmatic.;Customer-obsessed.;Fast.;Sub-60ms+speech.+Trusted+by+AI-native+teams." alt="Typing SVG">
   </a>
 </p>
 
