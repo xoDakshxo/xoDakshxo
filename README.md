@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Daksh Bagga 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Daksh%20Bagga&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Solutions%20Engineer%20%C2%B7%20AI%20%26%20Voice%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Daksh Bagga">
+</p>
 
 <p align="center">
-  <b>Enterprise Solutions Engineer · Customer-Facing AI & Voice Systems</b><br>
-  I help AI-native enterprises ship GenAI, RAG, agents, and voice pipelines into production.
+  <a href="https://github.com/xoDakshxo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2CB67D&center=true&vCenter=true&width=720&lines=Shipping+GenAI%2C+RAG%2C+agents+%26+voice+into+production;Builder+of+a+voice+agent+platform+with+1200%2B+integrations;Sub-60ms+speech+%C2%B7+Trusted+technical+voice+for+AI-native+teams" alt="Typing SVG">
+  </a>
 </p>
 
 <p align="center">
@@ -67,17 +70,21 @@ I'm an Enterprise Solutions Engineer who partners with sales and product teams t
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xoDakshxo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoDakshxo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoDakshxo&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoDakshxo&theme=react-dark&bg_color=0D1117&color=2CB67D&line=7F5AF0&point=00B4D8&hide_border=true&area=true" alt="Contribution activity graph" width="92%">
 </p>
 
 ---
 
+<p align="center">
+  <a href="https://linkedin.com/in/daksh-bagga1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dakshbagga54@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 <p align="center"><i>Trusted technical voice for getting GenAI from evaluation to production.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:2CB67D,100:7F5AF0&height=120&section=footer" alt="">
+</p>
