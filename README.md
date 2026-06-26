@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-term.svg" alt="Daksh Bagga — Enterprise Solutions Engineer, Customer-Facing AI" width="100%">
+  <img src="assets/banner-matrix.svg" alt="Daksh Bagga — Enterprise Solutions Engineer, Customer-Facing AI" width="100%">
 </p>
 
 <p align="center">
