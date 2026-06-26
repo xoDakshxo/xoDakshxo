@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00B4D8&height=200&section=header&text=Daksh%20Bagga&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Solutions%20Engineer%20%7C%20AI%20and%20Voice%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Daksh Bagga">
+  <img src="assets/banner.svg" alt="Daksh Bagga — Enterprise Solutions Engineer, AI and Voice Systems" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/xoDakshxo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=2CB67D&center=true&vCenter=true&width=720&lines=Shipping+GenAI%2C+RAG%2C+agents+and+voice+into+production;Curious.;Relentless.;Pragmatic.;Customer-obsessed.;Fast.;Sub-60ms+speech.+Trusted+by+AI-native+teams." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1600&pause=600&color=2CB67D&center=true&vCenter=true&width=520&lines=Curious.;Relentless.;Pragmatic.;Customer-obsessed.;Fast.;Resourceful." alt="Typing SVG">
   </a>
 </p>
 
@@ -84,7 +84,3 @@ I'm an Enterprise Solutions Engineer who partners with sales and product teams t
 </p>
 
 <p align="center"><i>Trusted technical voice for getting GenAI from evaluation to production.</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:2CB67D,100:7F5AF0&height=120&section=footer" alt="">
-</p>
