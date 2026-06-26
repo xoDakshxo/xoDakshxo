@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Daksh Bagga — Enterprise Solutions Engineer, AI and Voice Systems" width="100%">
+  <img src="assets/banner.svg" alt="Daksh Bagga — Enterprise Solutions Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📍 Bangalore, India (Remote) ·
+  📍 India ·
   <a href="https://linkedin.com/in/daksh-bagga1">LinkedIn</a> ·
   <a href="mailto:dakshbagga54@gmail.com">Email</a>
 </p>
@@ -28,7 +28,7 @@
 
 ### 🚀 About
 
-I'm an Enterprise Solutions Engineer who partners with sales and product teams to scale customer-facing GenAI and voice systems — owning discovery, demos, integration architecture, and rollout. Strong Python depth across **RAG, agents, voice pipelines, and MCP integrations**, and the builder of a voice-enabled agent platform with **1200+ integrations**.
+I'm an Enterprise Solutions Engineer who partners with sales and product teams to scale customer-facing GenAI, RAG, and voice pipelines — owning discovery, demos, integration architecture, and rollout. Strong Python depth across **RAG, agents, voice pipelines, and MCP integrations**, and the builder of a voice-enabled agent platform with **1200+ integrations**.
 
 - 🔭 Currently building customer-facing AI systems at **Nektar.ai**
 - 🧠 Working across RAG, LLM evaluation, agentic workflows, guardrails, and STT/TTS pipelines

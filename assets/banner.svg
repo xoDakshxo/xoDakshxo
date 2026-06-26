@@ -1,32 +1,45 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daksh Bagga — Enterprise Solutions Engineer, AI and Voice Systems">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daksh Bagga — Enterprise Solutions Engineer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#10243A"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#7F5AF0"/>
-      <stop offset="0.5" stop-color="#2CB67D"/>
       <stop offset="1" stop-color="#00B4D8"/>
     </linearGradient>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="260" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0D1117" stop-opacity="0.35"/>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2CB67D"/>
+      <stop offset="1" stop-color="#7F5AF0"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#E8F6FF"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="260" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="260" rx="20" fill="url(#fade)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
 
-  <!-- soft light orbs -->
-  <circle cx="180" cy="60" r="160" fill="url(#glow)"/>
-  <circle cx="1040" cy="220" r="200" fill="url(#glow)"/>
+  <!-- moving wave layers (clipped to the rounded rect via overflow) -->
+  <g opacity="0.18">
+    <path d="M -600 230 q 75 -34 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1800 320 L -600 320 Z" fill="url(#wave1)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.22">
+    <path d="M -600 252 q 75 -28 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1800 320 L -600 320 Z" fill="url(#wave2)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.30">
+    <path d="M -600 274 q 75 -22 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 L 1800 320 L -600 320 Z" fill="url(#wave1)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
 
-  <!-- flowing waves -->
-  <path d="M0 196 C 220 150, 380 250, 620 200 S 1000 150, 1200 198 L 1200 260 L 0 260 Z" fill="#ffffff" fill-opacity="0.08"/>
-  <path d="M0 220 C 260 184, 440 264, 700 222 S 1040 184, 1200 224 L 1200 260 L 0 260 Z" fill="#ffffff" fill-opacity="0.10"/>
-
-  <!-- text -->
-  <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="1">Daksh Bagga</text>
-  <text x="600" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#EAF6FF" letter-spacing="3">ENTERPRISE SOLUTIONS ENGINEER &#183; AI &amp; VOICE SYSTEMS</text>
+  <!-- name + subtitle -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="6" fill="url(#ink)">DAKSH BAGGA</text>
+  <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="5" fill="#9FE7C9">ENTERPRISE SOLUTIONS ENGINEER &#183; CUSTOMER-FACING AI</text>
 </svg>
