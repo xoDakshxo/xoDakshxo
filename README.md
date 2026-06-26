@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xoDakshxo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1600&pause=600&color=2CB67D&center=true&vCenter=true&width=520&lines=Curious.;Relentless.;Pragmatic.;Customer-obsessed.;Fast.;Resourceful." alt="Typing SVG">
-  </a>
-</p>
-
-<p align="center">
   📍 India ·
   <a href="https://linkedin.com/in/daksh-bagga1">LinkedIn</a> ·
   <a href="mailto:dakshbagga54@gmail.com">Email</a>
